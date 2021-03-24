@@ -6,6 +6,3 @@ Clachworks is a new social enterprise in Inverness working towards creating an o
 
 Take part in our [community survey](https://s.surveyplanet.com/qAIb34M0h)
 
-facebook: clachworks
-instagram: clachworks
-twitter: clachworks
