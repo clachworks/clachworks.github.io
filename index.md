@@ -1,8 +1,8 @@
 ![toolsworkshop](/toolsworkshop.png)
 
-### Want to DIY but don’t have the tools or space? 
-### Want to learn a new skill?
-### We want to hear from you!
+## Want to DIY but don’t have the tools or space? 
+## Want to learn a new skill?
+## We want to hear from you!
 
 Clachworks is a new social enterprise in Inverness working towards creating an open DIY space for making and remaking.
 
