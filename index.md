@@ -6,8 +6,6 @@
 
 Clachworks is a new social enterprise in Inverness working towards creating an open DIY space for making and remaking.
 
-Take part in our [community survey](https://s.surveyplanet.com/qAIb34M0h)
-
 If you’d like to get in touch, [email us](mailto:clachworks@gmail.com).
 We’d love to hear from you.
 
