@@ -15,7 +15,7 @@ Please also visit our ‘get involved’ page to find out more about an exciting
 Clachworks is a not-for-profit community interest company (SC683808). 
 
 
-##About
+# About
 
 Clachworks is building an accessible tool library, workshop, community garden and cafe in Inverness. 
 As a new social enterprise, it seeks to share the tools to build things, skills and the friendships.
@@ -32,7 +32,7 @@ By sharing resources, Clachworks aims to:
 2.     Reduce the overall consumption and waste of goods.
 3.     Foster skills development and community empowerment. 
 
-##Get Involved
+# Get Involved
 
 Clachworks is recruiting up to four more people to join our board of directors. 
 
@@ -43,7 +43,7 @@ To find out more, please read the following board recruitment pack.
 To apply, please complete the application form and send it to clachworks@gmail.com by 7th July (midnight). 
 
 
-##Contact Us
+# Contact Us
 [clachworks@gmail.com](mailto:clachworks@gmail.com)
 Facebook / Instagram / Twitter
 
