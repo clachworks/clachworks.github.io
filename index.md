@@ -45,5 +45,4 @@ To apply, please complete the application form and send it to clachworks@gmail.c
 
 # Contact Us
 [clachworks@gmail.com](mailto:clachworks@gmail.com)
-Facebook / Instagram / Twitter
 
