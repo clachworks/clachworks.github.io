@@ -9,7 +9,7 @@ We are currently in our start-up phase and look forward to sharing more news wit
 In the meantime, if you would like to donate tools, time or money to help make this a reality, please get in touch. [email us](mailto:clachworks@gmail.com).
 We’d love to hear from you! 
 
-Please also visit our [‘get involved’] page to find out more about an exciting opportunity to join our board.
+Please also visit our ‘get involved’ page to find out more about an exciting opportunity to join our board.
 
 Clachworks is a not-for-profit community interest company (SC683808). 
 
