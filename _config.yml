@@ -1,7 +1,8 @@
 theme: minima
 title: Clachworks
 despription: Clachworks is a new social enterprise in Inverness working towards creating an open DIY space for making & remaking.
-  
+
+minima:
   social_links:
     twitter: clachworks
     facebook: clachworks
